@@ -1,0 +1,20 @@
+{
+  "plugins": {
+    "blink.cmp": {
+      "rev": "10198f904da1e7f77aeb0368414f871568c0d898",
+      "src": "https://github.com/saghen/blink.cmp"
+    },
+    "blink.lib": {
+      "rev": "fd9a48ebbe6ec30d5dfcc5b42c243941ccdca1aa",
+      "src": "https://github.com/saghen/blink.lib"
+    },
+    "solarized": {
+      "rev": "fe02ed49cc017cc93657bd6306a2624394611c69",
+      "src": "https://github.com/shaunsingh/solarized.nvim"
+    },
+    "which-key.nvim": {
+      "rev": "3aab2147e74890957785941f0c1ad87d0a44c15a",
+      "src": "https://github.com/folke/which-key.nvim"
+    }
+  }
+}
